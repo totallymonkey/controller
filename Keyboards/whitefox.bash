@@ -23,7 +23,7 @@ BaseMap="scancode_map"
 # This is the default layer of the keyboard
 # NOTE: To combine kll files into a single layout, separate them by spaces
 # e.g.  DefaultMap="mylayout mylayoutmod"
-DefaultMap="mine/stdFuncMap mine/baseMod"
+DefaultMap="mywhitefox/stdFuncMap mywhitefox/baseMod"
 
 # This is where you set the additional layers
 # NOTE: Indexing starts at 1
@@ -31,7 +31,7 @@ DefaultMap="mine/stdFuncMap mine/baseMod"
 # e.g.  PartialMaps[1]="layer1 layer1mod"
 #       PartialMaps[2]="layer2"
 #       PartialMaps[3]="layer3"
-PartialMaps[1]="mine/whitefox"
+PartialMaps[1]="mywhitefox/whitefox"
 
 
 
